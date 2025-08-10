@@ -1,0 +1,46 @@
+{
+    "infitsList": [
+        "files/Apertures/jw01181-o004_t008_nircam_clear-f090w_i2d.fits",
+        "files/Apertures/jw01181-c1009_t008_nircam_clear-f090w_i2d.fits",
+        "files/Apertures/jw01181-o001_t001_nircam_clear-f090w_i2d.fits"
+    ],
+    "bgfitsList": [
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Backgrounds/o004t008BACK.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Backgrounds/c1009t008BACK.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Backgrounds/o001t001BACK.txt"
+    ],
+    "bgSubFitsList": [
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/-Backgrounds/o004t008-BACK.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/-Backgrounds/c1009t008-BACK.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/-Backgrounds/o001t001-BACK.txt"
+    ],
+    "seCatsList": [
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Cats/o004t008CAT.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Cats/c1009t008CAT.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Cats/o001t001CAT.txt"
+    ],
+    "seSegList": [
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Segmentations/o004t008SEG.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Segmentations/c1009t008SEG.txt",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Segmentations/o001t001SEG.txt"
+    ],
+    "header": [
+        "NUMBER",
+        "X_IMAGE",
+        "Y_IMAGE",
+        "ID_PARENT",
+        "X_WORLD",
+        "Y_WORLD",
+        "THETA_IMAGE",
+        "ELLIPTICITY",
+        "A_IMAGE",
+        "B_IMAGE",
+        "PETRO_RADIUS"
+    ],
+    "seCatsClean": [
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Cats/o004t008CATCLEAN.csv",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Cats/c1009t008CATCLEAN.csv",
+        "/Users/gus/Desktop/PycharmProjects/SFExtractor/SExtractorStuff/Cats/o001t001CATCLEAN.csv"
+    ],
+    "targetFile": "files/targets.csv"
+}
